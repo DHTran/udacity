@@ -10,6 +10,7 @@ jupyter = "*"
 pandas = "*"
 numpy = "*"
 matplotlib = "*"
+jinja2 = "*"
 
 [requires]
 python_version = "3.6"
